@@ -1,0 +1,4 @@
+- Project conducted by Oleksandr Hoviadin and Clement Marie as part of the Discrete Mathematics module.
+- Implemented automate using Python.
+- Implemented various automate functions such as Determination, Concatenation, Multiplication, Union etc.
+- Designed and implemented testing environment.
